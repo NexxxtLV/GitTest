@@ -1,6 +1,11 @@
 #include <iostream>
 
+void printText(std::string text)
+{
+    printf(text.c_str());
+}
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    printText("Hello World!\n");
 }
