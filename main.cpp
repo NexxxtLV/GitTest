@@ -7,5 +7,9 @@ void printText(std::string text)
 
 int main()
 {
-    printText("Hello World!\n");
+    printText("Master branch!\n");
+    printText("Master branch!\n");
+    printText("Master branch!\n");
+    
+    return 0;
 }
