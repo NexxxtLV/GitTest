@@ -14,6 +14,7 @@ int sumTwoDigits(int a, int b)
 int main()
 {
     printText("Hello New Feature\n");
+    printText("Hello Master");
     printText(std::to_string(sumTwoDigits(1, 2)));
 
     system("pause");
